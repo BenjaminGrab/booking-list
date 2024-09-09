@@ -1,0 +1,7 @@
+<div class="grid grid-cols-1 divide-y-2">
+  @for (item of bookings(); track item.id) {
+    <app-booking-list-item [booking]="item"></app-booking-list-item>
+  } @empty {
+    <div class="flex m-auto mt-4">Keine Ergebnisse gefunden</div>
+  }
+</div>

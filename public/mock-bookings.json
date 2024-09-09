@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "amount": -56,
+    "date": "1680398868000",
+    "category": "charges",
+    "recipient": "Walker-Price",
+    "purpose": "info-mediaries"
+  },
+  {
+    "id": 2,
+    "amount": 3,
+    "date": "1680398868000",
+    "category": "employee",
+    "recipient": "Altenwerth, Streich and Carter",
+    "purpose": "leading edge"
+  },
+  {
+    "id": 3,
+    "amount": 10,
+    "date": "1680398868000",
+    "category": "employee",
+    "recipient": "Kunde and Sons",
+    "purpose": "Reactive"
+  },
+  {
+    "id": 4,
+    "amount": -97,
+    "date": "1680398868000",
+    "category": "charges",
+    "recipient": "Christiansen and Sons",
+    "purpose": "infrastructure"
+  },
+  {
+    "id": 5,
+    "amount": 87,
+    "date": "1677159422000",
+    "category": "employee",
+    "recipient": "Schowalter Inc",
+    "purpose": "software"
+  },
+  {
+    "id": 6,
+    "amount": 16,
+    "date": "1706869059000",
+    "category": "charges",
+    "recipient": "Wilderman and Sons",
+    "purpose": "utilisation"
+  },
+  {
+    "id": 7,
+    "amount": -45,
+    "date": "1713052324000",
+    "category": "services",
+    "recipient": "Okuneva, Trantow and Stark",
+    "purpose": "leverage"
+  },
+  {
+    "id": 8,
+    "amount": 15,
+    "date": "1712189248000",
+    "category": "charges",
+    "recipient": "Funk-Dooley",
+    "purpose": "adapter"
+  },
+  {
+    "id": 9,
+    "amount": 37,
+    "date": "1676142607000",
+    "category": "charges",
+    "recipient": "Walsh and Sons",
+    "purpose": "protocol"
+  },
+  {
+    "id": 10,
+    "amount": 72,
+    "date": "1690410192000",
+    "category": "charges",
+    "recipient": "Swaniawski LLC",
+    "purpose": "Operative"
+  },
+  {
+    "id": 11,
+    "amount": 56,
+    "date": "1707515373000",
+    "category": "charges",
+    "recipient": "McGlynn-O'Kon",
+    "purpose": "holistic"
+  },
+  {
+    "id": 12,
+    "amount": 14,
+    "date": "1712900772000",
+    "category": "charges",
+    "recipient": "Ortiz, Schowalter and Beier",
+    "purpose": "Face to face"
+  },
+  {
+    "id": 13,
+    "amount": 38,
+    "date": "1718795961000",
+    "category": "employee",
+    "recipient": "Keebler-Huels",
+    "purpose": "uniform"
+  },
+  {
+    "id": 14,
+    "amount": -56,
+    "date": "1719913833000",
+    "category": "charges",
+    "recipient": "Ferry-Kuhn",
+    "purpose": "Intuitive"
+  },
+  {
+    "id": 15,
+    "amount": 69,
+    "date": "1692234011000",
+    "category": "expenses",
+    "recipient": "Boehm, Goyette and Bogisich",
+    "purpose": "Self-enabling"
+  },
+  {
+    "id": 16,
+    "amount": 65,
+    "date": "1684795804000",
+    "category": "charges",
+    "recipient": "Rath, Roberts and Shields",
+    "purpose": "methodical"
+  },
+  {
+    "id": 17,
+    "amount": 57,
+    "date": "1675027594000",
+    "category": "charges",
+    "recipient": "Kihn and Sons",
+    "purpose": "Expanded"
+  },
+  {
+    "id": 18,
+    "amount": 5,
+    "date": "1706288007000",
+    "category": "charges",
+    "recipient": "Price-Ritchie",
+    "purpose": "Multi-channelled"
+  },
+  {
+    "id": 19,
+    "amount": 79,
+    "date": "1677415279000",
+    "category": "charges",
+    "recipient": "Fritsch, Robel and Ward",
+    "purpose": "Face to face"
+  },
+  {
+    "id": 20,
+    "amount": -63,
+    "date": "1676173686000",
+    "category": "services",
+    "recipient": "Lehner-Stokes",
+    "purpose": "radical"
+  },
+  {
+    "id": 21,
+    "amount": 54,
+    "date": "1695244717000",
+    "category": "expenses",
+    "recipient": "Feest-Heller",
+    "purpose": "Face to face"
+  },
+  {
+    "id": 22,
+    "amount": 80,
+    "date": "1711550130000",
+    "category": "expenses",
+    "recipient": "Schmeler, Reichert and Rodriguez",
+    "purpose": "Customer-focused"
+  },
+  {
+    "id": 23,
+    "amount": 4,
+    "date": "1710929410000",
+    "category": "services",
+    "recipient": "Veum LLC",
+    "purpose": "Grass-roots"
+  },
+  {
+    "id": 24,
+    "amount": 99,
+    "date": "1685931047000",
+    "category": "charges",
+    "recipient": "Hodkiewicz, McDermott and Wintheiser",
+    "purpose": "utilisation"
+  },
+  {
+    "id": 25,
+    "amount": 72,
+    "date": "1723345099000",
+    "category": "employee",
+    "recipient": "Ortiz and Sons",
+    "purpose": "Operative"
+  },
+  {
+    "id": 26,
+    "amount": 80,
+    "date": "1681621176000",
+    "category": "charges",
+    "recipient": "Cummings-Schowalter",
+    "purpose": "mobile"
+  },
+  {
+    "id": 27,
+    "amount": -37,
+    "date": "1698544055000",
+    "category": "expenses",
+    "recipient": "Schuppe, Ledner and Kuphal",
+    "purpose": "Cross-group"
+  },
+  {
+    "id": 28,
+    "amount": -19,
+    "date": "1696443310000",
+    "category": "charges",
+    "recipient": "Kemmer-Monahan",
+    "purpose": "logistical"
+  },
+  {
+    "id": 29,
+    "amount": -75,
+    "date": "1689693566000",
+    "category": "expenses",
+    "recipient": "Hyatt, Keebler and McKenzie",
+    "purpose": "composite"
+  },
+  {
+    "id": 30,
+    "amount": 50,
+    "date": "1711121843000",
+    "category": "expenses",
+    "recipient": "Runte-Schroeder",
+    "purpose": "methodical"
+  },
+  {
+    "id": 31,
+    "amount": 27,
+    "date": "1714454989000",
+    "category": "expenses",
+    "recipient": "Hagenes and Sons",
+    "purpose": "benchmark"
+  },
+  {
+    "id": 32,
+    "amount": 58,
+    "date": "1722218489000",
+    "category": "employee",
+    "recipient": "Weber Inc",
+    "purpose": "Visionary"
+  },
+  {
+    "id": 33,
+    "amount": 13,
+    "date": "1686942504000",
+    "category": "employee",
+    "recipient": "Harris-Bashirian",
+    "purpose": "access"
+  },
+  {
+    "id": 34,
+    "amount": 11,
+    "date": "1705052906000",
+    "category": "services",
+    "recipient": "Zemlak Group",
+    "purpose": "time-frame"
+  },
+  {
+    "id": 35,
+    "amount": 95,
+    "date": "1675654805000",
+    "category": "expenses",
+    "recipient": "Veum-Hand",
+    "purpose": "collaboration"
+  },
+  {
+    "id": 36,
+    "amount": 5,
+    "date": "1713217074000",
+    "category": "expenses",
+    "recipient": "Sipes Group",
+    "purpose": "Decentralized"
+  },
+  {
+    "id": 37,
+    "amount": 51,
+    "date": "1707620699000",
+    "category": "employee",
+    "recipient": "Johnson-Rempel",
+    "purpose": "coherent"
+  },
+  {
+    "id": 38,
+    "amount": 41,
+    "date": "1723790386000",
+    "category": "employee",
+    "recipient": "Kiehn LLC",
+    "purpose": "maximized"
+  },
+  {
+    "id": 39,
+    "amount": 21,
+    "date": "1689841637000",
+    "category": "services",
+    "recipient": "Thiel LLC",
+    "purpose": "Innovative"
+  },
+  {
+    "id": 40,
+    "amount": 76,
+    "date": "1691097072000",
+    "category": "employee",
+    "recipient": "Rohan-Hackett",
+    "purpose": "utilisation"
+  },
+  {
+    "id": 41,
+    "amount": 39,
+    "date": "1723565734000",
+    "category": "charges",
+    "recipient": "Hills Inc",
+    "purpose": "initiative"
+  },
+  {
+    "id": 42,
+    "amount": 18,
+    "date": "1715218765000",
+    "category": "expenses",
+    "recipient": "Lockman-Roberts",
+    "purpose": "global"
+  },
+  {
+    "id": 43,
+    "amount": 63,
+    "date": "1685218207000",
+    "category": "charges",
+    "recipient": "Heller-Morissette",
+    "purpose": "user-facing"
+  },
+  {
+    "id": 44,
+    "amount": 68,
+    "date": "1680003893000",
+    "category": "expenses",
+    "recipient": "Schoen-Purdy",
+    "purpose": "human-resource"
+  },
+  {
+    "id": 45,
+    "amount": 52,
+    "date": "1681445523000",
+    "category": "employee",
+    "recipient": "McCullough Group",
+    "purpose": "website"
+  },
+  {
+    "id": 46,
+    "amount": 42,
+    "date": "1715525354000",
+    "category": "employee",
+    "recipient": "Stiedemann-Satterfield",
+    "purpose": "concept"
+  },
+  {
+    "id": 47,
+    "amount": 53,
+    "date": "1716918303000",
+    "category": "employee",
+    "recipient": "Sipes-Hickle",
+    "purpose": "Front-line"
+  },
+  {
+    "id": 48,
+    "amount": 24,
+    "date": "1711552402000",
+    "category": "charges",
+    "recipient": "Bartoletti-Blanda",
+    "purpose": "Exclusive"
+  },
+  {
+    "id": 49,
+    "amount": 30,
+    "date": "1710111158000",
+    "category": "expenses",
+    "recipient": "O'Conner-Luettgen",
+    "purpose": "local"
+  },
+  {
+    "id": 50,
+    "amount": 20,
+    "date": "1716388231000",
+    "category": "services",
+    "recipient": "Breitenberg, Kunze and Jaskolski",
+    "purpose": "Public-key"
+  }
+]
